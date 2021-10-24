@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <Compiler Value="C:\Apps\lazarus\fpc\2.6.4\bin\i386-win32\fpc.exe" Date="1150455029"/>
+  <Params Value=" -MObjFPC -Scghi -Os1 -Xs -vewnhi -FiC:\Users\Conrad\Documents\Lazarus\win7Console\lib\i386-win32 -FuC:\Users\Conrad\Documents\Lazarus\win7Console\ -FUC:\Users\Conrad\Documents\Lazarus\win7Console\lib\i386-win32\ -l w7v2cpframe.lpr"/>
+</CONFIG>

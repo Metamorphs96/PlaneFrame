@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="9"/>
+    <BuildModes Active="Default"/>
+    <Units Count="7">
+      <Unit0>
+        <Filename Value="w7cpframe.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="0"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="23"/>
+        <CursorPos X="35" Y="74"/>
+        <UsageCount Value="21"/>
+        <Loaded Value="True"/>
+      </Unit0>
+      <Unit1>
+        <Filename Value="FILES000.PAS"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="Files000"/>
+        <EditorIndex Value="3"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="35"/>
+        <CursorPos X="1" Y="1"/>
+        <UsageCount Value="21"/>
+        <Loaded Value="True"/>
+      </Unit1>
+      <Unit2>
+        <Filename Value="PF_ANAL.PAS"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="Pf_Anal"/>
+        <IsVisibleTab Value="True"/>
+        <EditorIndex Value="2"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="633"/>
+        <CursorPos X="29" Y="644"/>
+        <UsageCount Value="21"/>
+        <Loaded Value="True"/>
+      </Unit2>
+      <Unit3>
+        <Filename Value="PF_VARS.PAS"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="Pf_Vars"/>
+        <EditorIndex Value="1"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="19"/>
+        <CursorPos X="24" Y="26"/>
+        <UsageCount Value="21"/>
+        <Loaded Value="True"/>
+      </Unit3>
+      <Unit4>
+        <Filename Value="PSTRING.PAS"/>
+        <UnitName Value="PString"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="6"/>
+        <CursorPos X="36" Y="16"/>
+        <UsageCount Value="10"/>
+      </Unit4>
+      <Unit5>
+        <Filename Value="C:\Users\Conrad\Documents\scratchPad\msa\Cholesky.pas"/>
+        <UnitName Value="Cholesky"/>
+        <TopLine Value="1"/>
+        <CursorPos X="42" Y="2"/>
+        <UsageCount Value="10"/>
+      </Unit5>
+      <Unit6>
+        <Filename Value="E:\myStorage\LapTop\Users2\Source\Delphi\engine\engineLT3\WindStream.pas"/>
+        <UnitName Value="WindStream"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="1"/>
+        <CursorPos X="1" Y="1"/>
+        <UsageCount Value="10"/>
+      </Unit6>
+    </Units>
+    <General>
+      <ActiveWindowIndexAtStart Value="0"/>
+    </General>
+    <JumpHistory Count="4" HistoryIndex="3">
+      <Position1>
+        <Filename Value="PF_ANAL.PAS"/>
+        <Caret Line="637" Column="39" TopLine="625"/>
+      </Position1>
+      <Position2>
+        <Filename Value="PF_ANAL.PAS"/>
+        <Caret Line="24" Column="48" TopLine="16"/>
+      </Position2>
+      <Position3>
+        <Filename Value="PF_ANAL.PAS"/>
+        <Caret Line="526" Column="42" TopLine="519"/>
+      </Position3>
+      <Position4>
+        <Filename Value="PF_ANAL.PAS"/>
+        <Caret Line="638" Column="35" TopLine="628"/>
+      </Position4>
+    </JumpHistory>
+  </ProjectSession>
+  <EditorMacros Count="0"/>
+</CONFIG>
