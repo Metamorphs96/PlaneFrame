@@ -1,0 +1,7 @@
+C:\Users\Conrad\Documents\Visual Studio 2005\Projects\cStructural\w7cpframe\obj\Debug\w7cpframe.exe
+C:\Users\Conrad\Documents\Visual Studio 2005\Projects\cStructural\w7cpframe\obj\Debug\w7cpframe.pdb
+C:\Users\Conrad\Documents\scratchPad\cpframe\VisualStudio\CSharp\w7cpframe\obj\Debug\w7cpframe.exe
+C:\Users\Conrad\Documents\scratchPad\cpframe\VisualStudio\CSharp\w7cpframe\obj\Debug\w7cpframe.pdb
+C:\Users\Conrad\Documents\scratchPad\cpframe\VisualStudio\CSharp\w7cpframe\bin\Debug\w7cpframe.exe
+C:\Users\Conrad\Documents\scratchPad\cpframe\VisualStudio\CSharp\w7cpframe\bin\Debug\w7cpframe.pdb
+C:\Users\Conrad\Documents\scratchPad\cpframe\VisualStudio\CSharp\w7cpframe\obj\Debug\w7cpframe.csprojResolveAssemblyReference.cache

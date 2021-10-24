@@ -1,0 +1,5 @@
+C:\Documents and Settings\Conrad2011\My Documents\Visual Studio 2005\Projects\cStructural\w7cpframe\bin\Debug\w7cpframe.exe
+C:\Documents and Settings\Conrad2011\My Documents\Visual Studio 2005\Projects\cStructural\w7cpframe\bin\Debug\w7cpframe.pdb
+C:\Documents and Settings\Conrad2011\My Documents\Visual Studio 2005\Projects\cStructural\w7cpframe\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Conrad2011\My Documents\Visual Studio 2005\Projects\cStructural\w7cpframe\obj\Debug\w7cpframe.exe
+C:\Documents and Settings\Conrad2011\My Documents\Visual Studio 2005\Projects\cStructural\w7cpframe\obj\Debug\w7cpframe.pdb
