@@ -1,0 +1,354 @@
+Microsoft (R) Windows Script Host Version 5.812
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+Main ...
+INPUT: Data File: <sample01.dat>
+OUTPUT: Data File: <sample01.rpt>
+OUTPUT: Data File: <sample01.trc>
+cpframe ...
+2D/Plane Frame Analysis ... 
+Input Data File     : sample01.dat
+Trace Report File   : sample01.trc
+PlaneFrame: Initialise ...
+initialise ...
+Project:initialise
+clsParameters: initialise ...
+baseIndex: 0
+... initialise
+Initialise: Materials
+Initialise: Sections
+Initialise: Nodes
+Initialise: Connectivity
+Initialise: Supports
+Initialise: Joint Loads
+Initialise: Member Loads
+Initialise: Gravity Loads
+... initialise
+Zero_Vars ...
+... Zero_Vars
+<<<< Data Not Loaded >>>>
+... PlaneFrame : Initialise
+initialise ...
+Project:initialise
+clsParameters: initialise ...
+baseIndex: 0
+... initialise
+Initialise: Materials
+Initialise: Sections
+Initialise: Nodes
+Initialise: Connectivity
+Initialise: Supports
+Initialise: Joint Loads
+Initialise: Member Loads
+Initialise: Gravity Loads
+... initialise
+pframeReader00 ...
+<JOB DETAILS>
+fgetData ...
+... fgetData
+<CONTROL DATA>
+fgetData ...
+5     4     2     1     1     0     4     0      4
+clsParameters: initialise ...
+baseIndex: 0
+... initialise
+Dimension & Geometry
+-------------------------------
+Number of Joints       :  0
+Number of Members      :  0
+Number of Supports     :  0
+Materials & Sections
+-------------------------------
+Number of Materials    :  0
+Number of Sections     :  0
+Design Actions
+-------------------------------
+Number of Joint Loads  :  0
+Number of Member Loads :  0
+Number of Gravity Loads :  0
+Screen Magnifier:  4
+... fgetData
+<NODES>
+fgetNodeData ...
+... fgetNodeData
+<MEMBERS>
+fgetMemberData ...
+... fgetMemberData
+<SUPPORTS>
+fgetSupportData ...
+... fgetSupportData
+<MATERIALS>
+fgetMaterialData ...
+... fgetMaterialData
+<SECTIONS>
+fgetSectionData ...
+... fgetSectionData
+<JOINT LOADS>
+fgetJointLoadData ...
+... fgetJointLoadData
+<MEMBER LOADS>
+fgetMemberLoadData ...
+... fgetMemberLoadData
+Machine to be Turned OFF
+... pframeReader00
+
+DATA PRINTOUT
+--------------------------------------------------------------------------------
+Analysis ...
+Analyse_Frame ...
+>>> Design Frame Started <<<
+PlaneFrame: Initialise ...
+Zero_Vars ...
+... Zero_Vars
+Data Loaded: Get Direction Cosines
+Get_Direction_Cosines ...
+0 : mlen[i]:  4.336
+1 : mlen[i]:  6.01684302603949
+2 : mlen[i]:  6.01684302603949
+3 : mlen[i]:  4.336
+... Get_Direction_Cosines
+... PlaneFrame : Initialise
+j3..  2
+ubound(rjl):  50
+rjl..  1 1 1
+j3..  14
+ubound(rjl):  50
+rjl..  1 1 1
+crl..  2
+crl..  3
+crl..  3
+crl..  3
+crl..  3
+crl..  3
+crl..  3
+crl..  3
+crl..  3
+crl..  3
+crl..  3
+crl..  4
+crl..  5
+crl..  6
+Fill_Restrained_Joints_Vector n3, nn, nr ..  15 9 6
+Calc_Bandwidth hbw, nn ..  6 9
+Analyse_Frame: i =  0
+Assemble_Global_Stiff_Matrix ...
+... Assemble_Global_Stiff_Matrix
+Assemble_Struct_Stiff_Matrix ... 0
+Process_DOF_K3 ...
+Process_DOF_K2 ...
+Process_DOF_K1 ...
+Load_Sj:  0 5 484.125862937596
+... Assemble_Struct_Stiff_Matrix
+Analyse_Frame: i =  1
+Assemble_Global_Stiff_Matrix ...
+... Assemble_Global_Stiff_Matrix
+Assemble_Struct_Stiff_Matrix ... 1
+Process_DOF_J3 ...
+Load_Sj:  2 6 49.3074785657235
+Load_Sj:  2 7 -246.537392828618
+Load_Sj:  2 8 504.251147465466
+Process_DOF_J2 ...
+Load_Sj:  1 6 -5145.72048039199
+Load_Sj:  1 7 -1112.71609364742
+Load_Sj:  1 8 246.537392828618
+Process_DOF_J1 ...
+Load_Sj:  0 5 -49.3074785657235
+Load_Sj:  0 6 -25812.174399529
+Load_Sj:  0 7 -5145.72048039199
+Load_Sj:  0 8 -49.3074785657235
+Process_DOF_K3 ...
+Process_DOF_K2 ...
+Process_DOF_K1 ...
+Load_Sj:  3 8 49.3074785657235
+... Assemble_Struct_Stiff_Matrix
+Analyse_Frame: i =  2
+Assemble_Global_Stiff_Matrix ...
+... Assemble_Global_Stiff_Matrix
+Assemble_Struct_Stiff_Matrix ... 2
+Process_DOF_J3 ...
+Load_Sj:  5 9 -49.3074785657235
+Load_Sj:  5 10 -246.537392828618
+Load_Sj:  5 11 504.251147465466
+Process_DOF_J2 ...
+Load_Sj:  4 9 5145.72048039199
+Load_Sj:  4 10 -1112.71609364742
+Load_Sj:  4 11 246.537392828618
+Process_DOF_J1 ...
+Load_Sj:  3 8 49.3074785657235
+Load_Sj:  3 9 -25812.174399529
+Load_Sj:  3 10 5145.72048039199
+Load_Sj:  3 11 49.3074785657235
+Process_DOF_K3 ...
+Process_DOF_K2 ...
+Process_DOF_K1 ...
+Load_Sj:  6 11 -49.3074785657235
+... Assemble_Struct_Stiff_Matrix
+Analyse_Frame: i =  3
+Assemble_Global_Stiff_Matrix ...
+... Assemble_Global_Stiff_Matrix
+Assemble_Struct_Stiff_Matrix ... 3
+Process_DOF_J3 ...
+Process_DOF_J2 ...
+Process_DOF_J1 ...
+Load_Sj:  6 11 484.125862937596
+... Assemble_Struct_Stiff_Matrix
+End of Matrix Assembly
+Choleski_Decomposition ...
+ndof, hbw 9 6
+global_i= 0
+p= 5
+q= -1
+su =  26035.4796868618
+te =  6.19750959990511E-03
+q= -1
+su =  5145.72048039199
+q= -1
+su =  434.818384371873
+q= -1
+su =  -25812.174399529
+q= -1
+su =  -5145.72048039199
+q= -1
+su =  -49.3074785657235
+global_i= 1
+p= 5
+q= 0
+su =  38359.026056747
+te =  5.17489021601274E-03
+q= 0
+su =  246.537392828618
+q= 0
+su =  -5145.72048039199
+q= 0
+su =  -1112.71609364742
+q= 0
+su =  246.537392828618
+q= -1
+su =  0
+global_i= 2
+p= 5
+q= 1
+su =  2407.94878939588
+te =  2.04124307050492E-02
+q= 1
+su =  49.3074785657235
+q= 1
+su =  -246.537392828618
+q= 1
+su =  504.251147465466
+q= 0
+su =  0
+q= -1
+su =  0
+global_i= 3
+p= 5
+q= 2
+su =  51624.348799058
+te =  6.20923084458738E-03
+q= 2
+su =  0
+q= 2
+su =  98.6149571314471
+q= 1
+su =  -25812.174399529
+q= 0
+su =  5145.72048039199
+q= -1
+su =  49.3074785657235
+global_i= 4
+p= 4
+q= 3
+su =  2225.43218729484
+te =  6.95740064825106E-02
+q= 3
+su =  0
+q= 2
+su =  5145.72048039199
+q= 1
+su =  -1112.71609364742
+q= 0
+su =  246.537392828618
+global_i= 5
+p= 3
+q= 4
+su =  2017.00458986187
+te =  2.28922778526836E-02
+q= 3
+su =  -49.3074785657235
+q= 2
+su =  -246.537392828618
+q= 1
+su =  504.251147465466
+global_i= 6
+p= 2
+q= 4
+su =  26035.4796868618
+te =  5.84346682731507E-02
+q= 3
+su =  -5145.72048039199
+q= 2
+su =  434.818384371873
+global_i= 7
+p= 1
+q= 4
+su =  38359.026056747
+te =  5.18095535162274E-03
+q= 3
+su =  -246.537392828618
+global_i= 8
+p= 0
+q= 4
+su =  2407.94878939588
+te =  2.62065501471259E-02
+... Choleski_Decomposition
+STEP:1
+STEP:1
+STEP:1
+STEP:1
+Assemble_Stiff_Mat ...
+eaol:  37246.3099630996
+cosa:  0
+sina:  1
+ccl:  223.30528733284
+ci:  484.125862937596
+cj:  484.125862937596
+ai:  1399.44649446494
+ao2:  699.723247232472
+aj:  1399.44649446494
+... Assemble_Stiff_Mat
+Assemble_Stiff_Mat ...
+eaol:  26841.3184956074
+cosa:  0.98058067569092
+sina:  0.196116135138184
+ccl:  83.571997569023
+ci:  251.419795372682
+cj:  251.419795372682
+ai:  1008.50229493093
+ao2:  504.251147465466
+aj:  1008.50229493093
+... Assemble_Stiff_Mat
+Assemble_Stiff_Mat ...
+eaol:  26841.3184956074
+cosa:  0.98058067569092
+sina:  -0.196116135138184
+ccl:  83.571997569023
+ci:  251.419795372682
+cj:  251.419795372682
+ai:  1008.50229493093
+ao2:  504.251147465466
+aj:  1008.50229493093
+... Assemble_Stiff_Mat
+Assemble_Stiff_Mat ...
+eaol:  37246.3099630996
+cosa:  0
+sina:  -1
+ccl:  223.30528733284
+ci:  484.125862937596
+cj:  484.125862937596
+ai:  1399.44649446494
+ao2:  699.723247232472
+aj:  1399.44649446494
+... Assemble_Stiff_Mat
+*** Analysis Completed *** 
+... Analyse_Frame
+... Analysis

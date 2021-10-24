@@ -1,0 +1,61 @@
+<job id="schPframe">
+
+   <script language="VBScript" src="xstring.vbs"/>
+   <script language="VBScript" src="xarray.vbs"/>
+   <script language="VBScript" src="fmOpenFilesTEXT.vbs"/>
+   <script language="VBScript" src="xNumbers.vbs"/>
+   <script language="VBScript" src="StringParser.vbs"/>
+   
+   //Plane Frame
+   <script language="VBScript" src="clsProjectData.vbs"/>
+   <script language="VBScript" src="clsParameters.vbs"/>
+   <script language="VBScript" src="clsPfCoordinate.vbs"/>
+   <script language="VBScript" src="clsPfConnectivity.vbs"/>
+   <script language="VBScript" src="clsPfSupport.vbs"/>
+   
+   <script language="VBScript" src="clsPfMaterial.vbs"/>
+   <script language="VBScript" src="clsPfSection.vbs"/>
+   
+   <script language="VBScript" src="clsPfForce.vbs"/>
+   
+   <script language="VBScript" src="clsPfJointLoad.vbs"/>
+   <script language="VBScript" src="clsPfMemberLoad.vbs"/>
+   <script language="VBScript" src="clsPfGravityLoad.vbs"/>
+   <script language="VBScript" src="clsGeomModel.vbs"/>
+   
+   <script language="VBScript" src="planeFrame.vbs"/>   
+   
+   
+
+   
+   <!--
+   <script language="VBScript" src="PfReport02.vbs"/>
+   -->
+   
+   
+   <script language="VBScript" src="w7cpframe.vbs"/>
+   
+   
+<script language="VBScript">
+
+
+
+
+
+
+'------------------------------------------------------------------------------  
+'MAIN
+'------------------------------------------------------------------------------
+
+Public fpText, fpRpt, fpTracer
+
+cMain
+'==============================================================================
+
+'END MAIN
+'==============================================================================
+
+</script>
+</job>
+
+
