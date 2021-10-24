@@ -1,0 +1,10 @@
+C:\Documents and Settings\Conrad2011\My Documents\SharpDevelop Projects\w7cpframe\w7cpframe\bin\Debug\w7cpframe.exe
+C:\Documents and Settings\Conrad2011\My Documents\SharpDevelop Projects\w7cpframe\w7cpframe\bin\Debug\w7cpframe.pdb
+C:\Documents and Settings\Conrad2011\My Documents\SharpDevelop Projects\w7cpframe\w7cpframe\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Conrad2011\My Documents\SharpDevelop Projects\w7cpframe\w7cpframe\obj\Debug\w7cpframe.exe
+C:\Documents and Settings\Conrad2011\My Documents\SharpDevelop Projects\w7cpframe\w7cpframe\obj\Debug\w7cpframe.pdb
+C:\Users\Conrad\Documents\scratchPad\cpframe\SharpDevelop\CSharp\w7cpframe\bin\Debug\w7cpframe.exe
+C:\Users\Conrad\Documents\scratchPad\cpframe\SharpDevelop\CSharp\w7cpframe\bin\Debug\w7cpframe.pdb
+C:\Users\Conrad\Documents\scratchPad\cpframe\SharpDevelop\CSharp\w7cpframe\obj\Debug\w7cpframe.csprojResolveAssemblyReference.cache
+C:\Users\Conrad\Documents\scratchPad\cpframe\SharpDevelop\CSharp\w7cpframe\obj\Debug\w7cpframe.exe
+C:\Users\Conrad\Documents\scratchPad\cpframe\SharpDevelop\CSharp\w7cpframe\obj\Debug\w7cpframe.pdb
