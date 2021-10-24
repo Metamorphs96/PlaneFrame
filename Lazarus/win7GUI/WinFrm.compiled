@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <Compiler Value="C:\Apps\FPC\3.0.4\bin\i386-Win32\fpc.exe" Date="1262918680"/>
+  <Params Value=" -Mdelphi -Scghi -O1 -g -gl -WG -l -vewnhibq -FuC:\Apps\lazarus\lcl\units\i386-win32\win32 -FuC:\Apps\lazarus\lcl\units\i386-win32 -FuC:\Apps\lazarus\components\lazutils\lib\i386-win32 -FuC:\Apps\lazarus\packager\units\i386-win32 -FuC:\Users\Conrad\Documents\Lazarus\win7GUI\ -oC:\Users\Conrad\Documents\Lazarus\win7GUI\WinFrm.exe -dLCL -dLCLwin32 -dBorland -dVer150 -dDelphi7 -dCompiler6_Up -dPUREPASCAL WinFrm.lpr"/>
+  <Complete Value="False"/>
+</CONFIG>

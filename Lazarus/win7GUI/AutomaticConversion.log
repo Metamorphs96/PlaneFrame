@@ -1,0 +1,60 @@
+* Converting file C:\Users2\Source\win7GUI\WinFrm.dpr *
+Added defines -dBorland -dVer150 -dDelphi7 -dCompiler6_Up -dPUREPASCAL in custom options
+Found all unit files
+* Fixing used units for file C:\Users2\Source\win7GUI\WinFrm.dpr *
+
+*** Converting unit files belonging to project/package ***
+* Converting file C:\Users2\Source\win7GUI\MAIN.PAS *
+* Converting file C:\Users2\Source\win7GUI\about.pas *
+* Converting file C:\Users2\Source\win7GUI\Pf_anal.pas *
+* Converting file C:\Users2\Source\win7GUI\Pf_gen.pas *
+* Converting file C:\Users2\Source\win7GUI\Pf_load.pas *
+* Converting file C:\Users2\Source\win7GUI\Pf_vars.pas *
+* Converting file C:\Users2\Source\win7GUI\Mi_Plot.pas *
+* Converting file C:\Users2\Source\win7GUI\Pf_Prt.pas *
+
+*** Converting unit files found during conversion ***
+* Converting file C:\Users2\Source\win7GUI\CHILDWIN.PAS *
+* Converting file C:\Users2\Source\win7GUI\Pf_Graph.pas *
+* Converting file C:\Users2\Source\win7GUI\Pf_Input.pas *
+
+*** Fixing used units and Repairing form files ***
+* Repairing form file C:\Users2\Source\win7GUI\MAIN.lfm *
+Removed property "ParentFont".
+Removed property "Font.Style".
+Removed property "Font.Name".
+Removed property "Font.Height".
+Removed property "Font.Color".
+Removed property "Font.Charset".
+Removed property "TextHeight".
+Removed property "WindowMenu".
+Removed property "Icon.Data".
+Changed Top coord of TSpeedButton from "2" to "0" inside TPanel.
+Changed Left coord of TSpeedButton from "144" to "142" inside TPanel.
+Changed Top coord of TSpeedButton from "2" to "0" inside TPanel.
+Changed Left coord of TSpeedButton from "112" to "110" inside TPanel.
+Changed Top coord of TSpeedButton from "2" to "0" inside TPanel.
+Changed Left coord of TSpeedButton from "88" to "86" inside TPanel.
+Changed Top coord of TSpeedButton from "2" to "0" inside TPanel.
+Changed Left coord of TSpeedButton from "64" to "62" inside TPanel.
+Changed Top coord of TSpeedButton from "2" to "0" inside TPanel.
+Changed Left coord of TSpeedButton from "31" to "29" inside TPanel.
+Changed Top coord of TSpeedButton from "2" to "0" inside TPanel.
+Changed Left coord of TSpeedButton from "7" to "5" inside TPanel.
+* Fixing used units for file C:\Users2\Source\win7GUI\MAIN.PAS *
+* Fixing used units for file C:\Users2\Source\win7GUI\about.pas *
+* Fixing used units for file C:\Users2\Source\win7GUI\Pf_anal.pas *
+* Fixing used units for file C:\Users2\Source\win7GUI\Pf_gen.pas *
+* Fixing used units for file C:\Users2\Source\win7GUI\Pf_load.pas *
+* Fixing used units for file C:\Users2\Source\win7GUI\Pf_vars.pas *
+* Repairing form file C:\Users2\Source\win7GUI\Mi_Plot.lfm *
+Removed property "TextHeight".
+* Fixing used units for file C:\Users2\Source\win7GUI\Mi_Plot.pas *
+* Fixing used units for file C:\Users2\Source\win7GUI\Pf_Prt.pas *
+* Repairing form file C:\Users2\Source\win7GUI\CHILDWIN.lfm *
+Removed property "TextHeight".
+* Fixing used units for file C:\Users2\Source\win7GUI\CHILDWIN.PAS *
+* Fixing used units for file C:\Users2\Source\win7GUI\Pf_Graph.pas *
+* Fixing used units for file C:\Users2\Source\win7GUI\Pf_Input.pas *
+Conversion took: 00:00:04
+Conversion Ready.

@@ -1,0 +1,34 @@
+object GraphForm: TGraphForm
+  Left = 243
+  Height = 626
+  Top = 46
+  Width = 841
+  Caption = 'Graphic Display'
+  ClientHeight = 626
+  ClientWidth = 841
+  Color = clBackground
+  Font.Color = clWindowText
+  Font.Height = -10
+  Font.Name = 'MS Sans Serif'
+  LCLVersion = '1.2.2.0'
+  object ScrollBox1: TScrollBox
+    Left = 0
+    Height = 626
+    Top = 0
+    Width = 841
+    HorzScrollBar.Page = 837
+    VertScrollBar.Page = 622
+    Align = alClient
+    ClientHeight = 622
+    ClientWidth = 837
+    TabOrder = 0
+    object Image1: TImage
+      Left = 0
+      Height = 622
+      Top = 0
+      Width = 837
+      Align = alClient
+      AutoSize = True
+    end
+  end
+end
