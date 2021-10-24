@@ -1,0 +1,7 @@
+LibreOffice Basic doesn't fully support user defined classes. Though appears to have some support using VBA compatibility mode. This mode however is incomplete.
+
+To convert the program to use of records, would be a step backwards.
+
+Also in LoB record types are only recognisable in the module in which they are defined. This limitation can be partly overcome by defining public variables in the module where the record type is defined. Modules which need to be passed the variable need defining in the module with the type definition, whilst external subroutines have to make use of the public variable. It is more restrictive than the use of class modules: since outside the class module subroutines can be written which pass an object of the class type around.
+
+Therefore at this time (27/08/2016) ignore LibreOffice.
