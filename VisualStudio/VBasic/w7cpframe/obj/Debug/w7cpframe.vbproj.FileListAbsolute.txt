@@ -1,0 +1,9 @@
+C:\Users\Conrad\Documents\scratchPad\cpframe\VisualStudio\VBasic\w7cpframe\obj\Debug\w7cpframe.exe
+C:\Users\Conrad\Documents\scratchPad\cpframe\VisualStudio\VBasic\w7cpframe\obj\Debug\w7cpframe.xml
+C:\Users\Conrad\Documents\scratchPad\cpframe\VisualStudio\VBasic\w7cpframe\obj\Debug\w7cpframe.pdb
+C:\Users\Conrad\Documents\scratchPad\cpframe\VisualStudio\VBasic\w7cpframe\bin\Debug\w7cpframe.exe
+C:\Users\Conrad\Documents\scratchPad\cpframe\VisualStudio\VBasic\w7cpframe\bin\Debug\w7cpframe.pdb
+C:\Users\Conrad\Documents\scratchPad\cpframe\VisualStudio\VBasic\w7cpframe\bin\Debug\w7cpframe.xml
+C:\Users\Conrad\Documents\scratchPad\cpframe\VisualStudio\VBasic\w7cpframe\obj\Debug\w7cpframe.Resources.resources
+C:\Users\Conrad\Documents\scratchPad\cpframe\VisualStudio\VBasic\w7cpframe\obj\Debug\w7cpframe.vbproj.GenerateResource.Cache
+C:\Users\Conrad\Documents\scratchPad\cpframe\VisualStudio\VBasic\w7cpframe\bin\Debug\w7cpframe.exe.config
