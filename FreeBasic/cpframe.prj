@@ -1,0 +1,44 @@
+[Project ID]
+Signature=UE Proj: v.1
+[Project Information]
+Compilable=1
+Use Relative Directory=1
+Relative to Project File=1
+Include Sub Directories=1
+Project Tagfile=
+Project Wordfile=
+Filter=
+Using VCS=0
+Save Account=0
+Create Tagfile=0
+CTags Legacy Support=0
+[Files]
+0=clsGeomModel.bas
+1=clsParameters.bas
+2=clsPfConnectivity.bas
+3=clsPfCoordinate.bas
+4=clsPfForce.bas
+5=clsPfGravityLoad.bas
+6=clsPfJointLoad.bas
+7=clsPfMaterial.bas
+8=clsPfMemberLoad.bas
+9=clsPfSection.bas
+10=clsPfSupport.bas
+11=clsProjectData.bas
+12=fmOpenFilesTEXT.bas
+13=PlaneFrame.bas
+14=StringParser.bas
+15=w7cpframe.bas
+16=w7cpframe01.bas
+17=xarray.bas
+18=xstring.bas
+19=xStrLib.bas
+20=xTesting01.bas
+[uemakeXp]
+ReleaseMode=0
+[Debug Settings]
+Program Arguments=
+Symbol Paths=
+Working Directory=
+Selected Debugger=0
+Source Paths=
