@@ -1,0 +1,26 @@
+object frmAppMain: TfrmAppMain
+  Left = 417
+  Height = 240
+  Top = 229
+  Width = 320
+  Caption = 'Application Experiment 1'
+  FormStyle = fsMDIForm
+  Menu = MainMenu1
+  LCLVersion = '1.0.12.0'
+  object MainMenu1: TMainMenu
+    object MenuItem1: TMenuItem
+      Caption = 'File'
+      OnClick = MenuItem1Click
+      object MenuItem4: TMenuItem
+        Caption = 'File Open'
+        OnClick = MenuItem4Click
+      end
+    end
+    object MenuItem2: TMenuItem
+      Caption = 'Structural'
+    end
+    object MenuItem3: TMenuItem
+      Caption = 'About'
+    end
+  end
+end
