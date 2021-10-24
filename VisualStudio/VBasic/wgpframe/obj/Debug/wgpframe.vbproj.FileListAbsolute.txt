@@ -1,0 +1,26 @@
+C:\Users\Conrad\Documents\Visual Studio 2005\Projects\rhaStructural\wgpframe\bin\Debug\wgpframe.exe.config
+C:\Users\Conrad\Documents\Visual Studio 2005\Projects\rhaStructural\wgpframe\obj\Debug\wgpframe.exe
+C:\Users\Conrad\Documents\Visual Studio 2005\Projects\rhaStructural\wgpframe\obj\Debug\wgpframe.xml
+C:\Users\Conrad\Documents\Visual Studio 2005\Projects\rhaStructural\wgpframe\obj\Debug\wgpframe.pdb
+C:\Users\Conrad\Documents\Visual Studio 2005\Projects\rhaStructural\wgpframe\bin\Debug\wgpframe.exe
+C:\Users\Conrad\Documents\Visual Studio 2005\Projects\rhaStructural\wgpframe\bin\Debug\wgpframe.pdb
+C:\Users\Conrad\Documents\Visual Studio 2005\Projects\rhaStructural\wgpframe\bin\Debug\wgpframe.xml
+C:\Users\Conrad\Documents\Visual Studio 2005\Projects\rhaStructural\wgpframe\obj\Debug\wgpframe.AboutBox1.resources
+C:\Users\Conrad\Documents\Visual Studio 2005\Projects\rhaStructural\wgpframe\obj\Debug\wgpframe.TgraphViewer.resources
+C:\Users\Conrad\Documents\Visual Studio 2005\Projects\rhaStructural\wgpframe\obj\Debug\wgpframe.TTracerFrm.resources
+C:\Users\Conrad\Documents\Visual Studio 2005\Projects\rhaStructural\wgpframe\obj\Debug\wgpframe.MDIParent1.resources
+C:\Users\Conrad\Documents\Visual Studio 2005\Projects\rhaStructural\wgpframe\obj\Debug\wgpframe.Resources.resources
+C:\Users\Conrad\Documents\Visual Studio 2005\Projects\rhaStructural\wgpframe\obj\Debug\wgpframe.vbproj.GenerateResource.Cache
+C:\Users\Conrad\Documents\scratchPad\cpframe\VisualStudio\VBasic\wgpframe\bin\Debug\wgpframe.exe.config
+C:\Users\Conrad\Documents\scratchPad\cpframe\VisualStudio\VBasic\wgpframe\obj\Debug\wgpframe.xml
+C:\Users\Conrad\Documents\scratchPad\cpframe\VisualStudio\VBasic\wgpframe\obj\Debug\wgpframe.pdb
+C:\Users\Conrad\Documents\scratchPad\cpframe\VisualStudio\VBasic\wgpframe\obj\Debug\wgpframe.AboutBox1.resources
+C:\Users\Conrad\Documents\scratchPad\cpframe\VisualStudio\VBasic\wgpframe\obj\Debug\wgpframe.TgraphViewer.resources
+C:\Users\Conrad\Documents\scratchPad\cpframe\VisualStudio\VBasic\wgpframe\obj\Debug\wgpframe.TTracerFrm.resources
+C:\Users\Conrad\Documents\scratchPad\cpframe\VisualStudio\VBasic\wgpframe\obj\Debug\wgpframe.MDIParent1.resources
+C:\Users\Conrad\Documents\scratchPad\cpframe\VisualStudio\VBasic\wgpframe\obj\Debug\wgpframe.Resources.resources
+C:\Users\Conrad\Documents\scratchPad\cpframe\VisualStudio\VBasic\wgpframe\obj\Debug\wgpframe.vbproj.GenerateResource.Cache
+C:\Users\Conrad\Documents\scratchPad\cpframe\VisualStudio\VBasic\wgpframe\bin\Debug\wgpframe.exe
+C:\Users\Conrad\Documents\scratchPad\cpframe\VisualStudio\VBasic\wgpframe\bin\Debug\wgpframe.pdb
+C:\Users\Conrad\Documents\scratchPad\cpframe\VisualStudio\VBasic\wgpframe\bin\Debug\wgpframe.xml
+C:\Users\Conrad\Documents\scratchPad\cpframe\VisualStudio\VBasic\wgpframe\obj\Debug\wgpframe.exe

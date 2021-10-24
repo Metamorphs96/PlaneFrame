@@ -1,0 +1,14 @@
+C:\Documents and Settings\Conrad2011\My Documents\Visual Studio 2005\Projects\rhaStructural\wgpframe\bin\Debug\wgpframe.exe
+C:\Documents and Settings\Conrad2011\My Documents\Visual Studio 2005\Projects\rhaStructural\wgpframe\bin\Debug\wgpframe.pdb
+C:\Documents and Settings\Conrad2011\My Documents\Visual Studio 2005\Projects\rhaStructural\wgpframe\bin\Debug\wgpframe.xml
+C:\Documents and Settings\Conrad2011\My Documents\Visual Studio 2005\Projects\rhaStructural\wgpframe\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Conrad2011\My Documents\Visual Studio 2005\Projects\rhaStructural\wgpframe\obj\Debug\wgpframe.MDIParent1.resources
+C:\Documents and Settings\Conrad2011\My Documents\Visual Studio 2005\Projects\rhaStructural\wgpframe\obj\Debug\wgpframe.Resources.resources
+C:\Documents and Settings\Conrad2011\My Documents\Visual Studio 2005\Projects\rhaStructural\wgpframe\obj\Debug\wgpframe.vbproj.GenerateResource.Cache
+C:\Documents and Settings\Conrad2011\My Documents\Visual Studio 2005\Projects\rhaStructural\wgpframe\obj\Debug\wgpframe.exe
+C:\Documents and Settings\Conrad2011\My Documents\Visual Studio 2005\Projects\rhaStructural\wgpframe\obj\Debug\wgpframe.xml
+C:\Documents and Settings\Conrad2011\My Documents\Visual Studio 2005\Projects\rhaStructural\wgpframe\obj\Debug\wgpframe.pdb
+C:\Documents and Settings\Conrad2011\My Documents\Visual Studio 2005\Projects\rhaStructural\wgpframe\obj\Debug\wgpframe.TTracerFrm.resources
+C:\Documents and Settings\Conrad2011\My Documents\Visual Studio 2005\Projects\rhaStructural\wgpframe\obj\Debug\wgpframe.TgraphViewer.resources
+C:\Documents and Settings\Conrad2011\My Documents\Visual Studio 2005\Projects\rhaStructural\wgpframe\bin\Debug\wgpframe.exe.config
+C:\Documents and Settings\Conrad2011\My Documents\Visual Studio 2005\Projects\rhaStructural\wgpframe\obj\Debug\wgpframe.AboutBox1.resources
