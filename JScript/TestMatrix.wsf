@@ -1,0 +1,28 @@
+<job id="schPframe">
+
+   <script language="JScript" src="xstring.js"/>
+   <script language="JScript" src="xarrays.js"/>
+   <script language="JScript" src="fmOpenFilesTEXT.js"/>
+   
+   <script language="JScript" src="tstMatrix.js"/>
+   
+   
+<script language="JScript">
+
+
+
+//MAIN
+//------------------------------------------------------------------------------
+
+var fpText, fpRpt, fpTracer;
+
+cMain();
+
+
+//END MAIN
+//------------------------------------------------------------------------------
+
+</script>
+</job>
+
+

@@ -1,0 +1,53 @@
+<job id="schPframe">
+
+   <script language="JScript" src="xstring.js"/>
+   <script language="JScript" src="xarrays.js"/>
+   <script language="JScript" src="fmOpenFilesTEXT.js"/>
+   
+   //Plane Frame
+   <script language="JScript" src="clsProjectData.js"/>
+   <script language="JScript" src="clsParameters.js"/>
+   <script language="JScript" src="clsPfCoordinate.js"/>
+   <script language="JScript" src="clsPfConnectivity.js"/>
+   <script language="JScript" src="clsPfSupport.js"/>
+   
+   <script language="JScript" src="clsPfMaterial.js"/>
+   <script language="JScript" src="clsPfSection.js"/>
+   
+   <script language="JScript" src="clsPfForce.js"/>
+   
+   <script language="JScript" src="clsPfJointLoad.js"/>
+   <script language="JScript" src="clsPfMemberLoad.js"/>
+   <script language="JScript" src="clsPfGravityLoad.js"/>
+   
+   <script language="JScript" src="clsGeomModel.js"/>
+   
+   <script language="JScript" src="planeFrame02.js"/>
+   
+   <script language="JScript" src="PfReport02.js"/>
+   
+   <script language="JScript" src="w7cpframe.js"/>
+   
+   
+<script language="JScript">
+
+
+
+
+
+
+//MAIN
+//------------------------------------------------------------------------------
+
+var fpText, fpRpt, fpTracer;
+
+cMain();
+
+
+//END MAIN
+//------------------------------------------------------------------------------
+
+</script>
+</job>
+
+
