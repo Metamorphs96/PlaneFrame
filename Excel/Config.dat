@@ -1,0 +1,144 @@
+AdminFolder
+\Admin
+AllowOverWrite
+ 0 
+AllowSelection
+ 1 
+AnalysisFolder
+\Analysis
+ApplicationAppsFolder
+\Apps
+ApplicationLibraryFolder
+\Library
+ApplicationName
+pframe
+ApplicationSourceFolder
+\Source
+ApplicationSystemFolder0
+C:\eCalcs
+ApplicationSystemFolder1
+eCalcs
+ApplicationSystemFolder2
+
+ApplicationSystemFolder3
+
+ApplicationSystemFolder4
+
+ApplicationSystemFolder5
+
+ApplicationSystemFolder6
+
+ApplicationSystemFolder7
+
+ApplicationSystemFolder8
+
+ApplicationSystemFolder9
+
+AppTemplatePath
+Templates
+cadApp
+aclt.exe
+cadAppPath
+C:\Program Files\AutoDesk\AutoCAD LT 2000
+cadCentreLine
+Centre
+caddDoc
+default
+caddMode
+ 2 
+caddTemplate
+default
+DataBaseFolder
+\JobTracker
+dataWrkBkName
+dataBook1.xlsx
+DBcontacts
+ContactData.mdb
+DBcosting
+ProjectCosting.mdb
+DBengineering
+EngineeringData.mdb
+DBgeography
+GeographicalData.mdb
+DBjobnotes
+JobNotes.mdb
+DBmanagerFn
+ManagerEnterpriseRHA.mdb
+dbMaterials
+--
+dbMtrlFolder
+--
+DBproduction
+ProductionData.mdb
+DBprojects
+ProjectData.mdb
+DesignFolder
+\Design
+DocFolder
+\Docs
+DwgFolder
+\Drwgs
+EnterpriseProjPath
+\WorkInProgress\Projects
+EnterpriseServer
+C:
+EnterpriseServer2
+C:\Users\RHAserver2
+EnterpriseServerUNC
+\\computer\folder
+ExplorerOpt
+ 1 
+FDrive1
+C:
+FDrive2
+C:
+FExt1
+.xlsx
+FExt2
+.xlsx
+FMode
+rt
+FName1
+SAMPLE03
+FName2
+SAMPLE03
+FPath1
+\myStorage\LapTop\Users2\Metamorphs\Products\Morf034\Stage05\xlsFrame
+FPath2
+\myStorage\LapTop\Users2\Metamorphs\Products\Morf034\Stage05\xlsFrame
+frameApp
+C:\Users2\Apps\dosApps\cpframe.exe
+isApplication
+ 1 
+isConfiguredAllReady
+ 0 
+isEndDelimiter
+ 0 
+isRunningFromWorkSheet
+ 1 
+isScriptExist
+ 0 
+isUseMyDocs
+ 0 
+MyDocsSubFolder
+\MyTesting
+nameScript
+DrawShed
+OptExplorerApp
+c:\program files\winutils\2xExplorer.exe
+projectKey
+ 0 
+ServerOption
+Local
+TechLib
+--
+TechLibPath
+--
+wbkMaterials
+schStruMtrl
+wrkBkTemplateName1
+dataBook.xlt
+wrkBkTemplateName2
+klein3.xlt
+wrkBkTemplateName3
+HeightSpanTableForm.xlt
